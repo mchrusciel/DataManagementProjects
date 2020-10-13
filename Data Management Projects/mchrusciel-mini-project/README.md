@@ -39,29 +39,3 @@ reviews_per_month: `decimal` - average number of reviews on this listing per mon
 calculated_host_list: `integer` - number of listings this particular hosts has - definitely duplicate data
 availability_365: `integer` - number of days this listing is available for rent
 
-## 2. Diagram / Sample Documents and Collections
-
-![ER Diagram](er-diagram.png)
-
-__TODO__: Create your own ER Diagram or show sample documents
-
-## 3. Data Import and Collection... or Data Generation
-
-__TODO__: Describe any data cleaning, preprocessing, etc. necessary to import data
-
-[__TODO__: Link to import script in repository (you can create any file you like)](name-of-import-script)
-
-## 4. Analysis
-
-__TODO__: Describe the goals of your analysis.
-
-[__TODO__: Link to analysis script in repository (you can create any file you like)](name-of-analysis-script)
-
-[__TODO__: Link to exact line of required usage of CTE, comprehension, etc.](name-of-analysis-script)
-
-## 5. Research
-
-* __TODO__: Link to documentation / site of new concept or technology used
-* __TODO__: Describe what you'll be using this technology for
-* [__TODO__: Link to application of research in repository](name-of-some-file)
-
